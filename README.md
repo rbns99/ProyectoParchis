@@ -1,6 +1,6 @@
 # Parchis
 
-#Descripción
+# Descripción
 
 
 Proyecto final para el curso TM2100 Fundamentos de Programación - Videojuego educativo tipo Parchís desarrollado en Java con interfaz gráfica Swing.
@@ -8,7 +8,7 @@ Proyecto final para el curso TM2100 Fundamentos de Programación - Videojuego ed
 El juego combina las mecánicas tradicionales del Parchís con un sistema de preguntas donde los jugadores deben responder preguntas de verdadero/falso para avanzar y acumular puntos.
 
 
-#Mecánicas de Juego
+# Mecánicas de Juego
 
 
 2 jugadores en turnos alternos
@@ -18,7 +18,7 @@ Sistema de preguntas (verdadero/falso)
 Casillas especiales con mecánicas únicas
 
 
-#Tecnologías
+# Tecnologías
 
 
 Lenguaje: Java
@@ -31,7 +31,7 @@ Control de versiones: Git + GitHub
 
 
 
-#Prerrequisitos
+# Prerrequisitos
 
 
 Java JDK 17 o superior
@@ -41,6 +41,6 @@ NetBeans IDE (recomendado)
 Git
 
 
-#Licencia
+# Licencia
 
 Proyecto académico desarrollado para fines educativos.
